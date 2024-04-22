@@ -1,4 +1,6 @@
-const Button = ({ styles }) => {
+import { TButtonProp } from "../types/componentsProp";
+
+const Button = ({ styles }: TButtonProp) => {
   return (
     <button
       type="button"
