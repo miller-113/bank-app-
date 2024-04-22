@@ -1,6 +1,6 @@
-# **GPT Page Layout**
+# **Bank App**
 
-## [**<u>Link to website</u>**](http://miller-113.github.io/UI-UX-GPT3)
+## [**<u>Link to website</u>**](http://miller-113.github.io/bank-app-)
 
 #### It is an application where you can create, update, sort, and perform many other task operations.
 
@@ -30,7 +30,7 @@
 3. Installing all dependencies;
 
 ```sh
- 1. git clone https://github.com/miller-113/UI-UX-GPT3.git
+ 1. git clone https://github.com/miller-113/bank-app-.git
  2. cd todo-app
  3. yarn
     #or
