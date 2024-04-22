@@ -20,6 +20,7 @@
 - [SCSS](https://sass-lang.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://react.dev/)
+- [tailwindcss](https://tailwindcss.com/)
 
 ## **Using**
 
