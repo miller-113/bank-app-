@@ -6,7 +6,13 @@ export type TFeatureCardProp = {
 };
 
 export type TButtonProp = {
-  styles: string;
+  styles?: string;
 
 };
 
+export type TFeedbackCardProp = {
+  content: string;
+  name: string;
+  title: string;
+  img: string;
+};
